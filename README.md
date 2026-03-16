@@ -1,16 +1,160 @@
-## Hi there 👋
+# 💻 Abdiel Paulino
 
-<!--
-**abdielpaulino/abdielpaulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Fullstack Developer`**
+**`Founder at Orbyt & MetalP`**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Abdiel Torazzi Paulino, from Santa Catarina, Brazil. I completed high school at Colégio SATC in Criciúma (SC), where I also obtained a technical degree in Electromechanics. Currently, I'm studying Software Engineering (5th Semester) at UNISATC in Criciúma (SC).  
+
+In October 2025, I founded my first company, MetalP, together with my father, Lucas. I use my experience in mechanical design to develop industrial furniture and custom metal structures tailored to each client's needs.  
+In February 2026, I founded Orbyt, a company focused on software systems development. Orbyt aims to create digital solutions for specific niches, building custom systems according to each client's needs.
+
+---
+
+<p align="left">
+    <a href="https://www.youtube.com/@larissakich">
+        <img 
+            alt="YouTube" 
+            title="YouTube Channel" 
+            src="https://custom-icon-badges.demolab.com/badge/YouTube-E05D44?style=for-the-badge&logo=video&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/abdielpaulino?tab=repositories">
+        <img 
+            alt="Repositories" 
+            title="GitHub Repositories" 
+            src="https://custom-icon-badges.demolab.com/badge/Repositories-236ad3?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/abdielpaulino?tab=followers">
+        <img 
+            alt="GitHub Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/badge/Followers-236ad3?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/abdiel_paulino">
+        <img 
+            alt="Abdiel Paulino Instagram" 
+            title="Abdiel Paulino Instagram"
+            src="https://custom-icon-badges.demolab.com/badge/Abdiel%20Paulino-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/metalp.ofc">
+        <img 
+            alt="MetalP Instagram" 
+            title="MetalP Instagram"
+            src="https://custom-icon-badges.demolab.com/badge/MetalP-2EA44F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/orbyt.ofc">
+        <img 
+            alt="Orbyt Instagram" 
+            title="Orbyt Instagram"
+            src="https://custom-icon-badges.demolab.com/badge/Orbyt-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 📚 Languages ​​and Technologies
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+<!--### 📊 Statistics
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
