@@ -41,26 +41,26 @@ In February 2026, I founded Orbyt, a company focused on software systems develop
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="mailto:seuemail@gmail.com">
+    <a href="mailto:abdielpaulino8@gmail.com">
         <img 
             alt="Email" 
             title="Send me an email"
             src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
         />
-    </a>
+    <!--</a>
     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="YouTube" 
             title="YouTube Channel" 
             src="https://custom-icon-badges.demolab.com/badge/YouTube-E05D44?style=for-the-badge&logo=video&logoColor=white"
-        />
-    </a>
+        />-->
+   <!-- </a>
     <a href="https://discord.gg/seulink">
         <img 
             alt="Discord" 
             title="Join my Discord"
             src="https://custom-icon-badges.demolab.com/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-        />
+        />-->
     </a>
     <a href="https://www.instagram.com/metalp.ofc">
         <img 
@@ -77,6 +77,7 @@ In February 2026, I founded Orbyt, a company focused on software systems develop
         />
     </a>
 </p>
+
 ---
 
 ### 📚 Languages ​​and Technologies
