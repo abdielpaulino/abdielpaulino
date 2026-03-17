@@ -103,14 +103,6 @@ In February 2026, I founded Orbyt, a company focused on software systems develop
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
@@ -139,22 +131,25 @@ In February 2026, I founded Orbyt, a company focused on software systems develop
 
 ---
 
-<!--### 📊 Statistics
+## 📊 Statistics
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=abdielpaulino&show_icons=true&theme=tokyonight&locale=en&hide_border=true&border_radius=12"
+    alt="GitHub Stats"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdielpaulino&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=8&hide_border=true&border_radius=12"
+    alt="Top Languages"
   />
+</p>
 
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abdielpaulino&theme=tokyo-night&hide_border=true&radius=12"
+    alt="GitHub Activity Graph"
+  />
 </p>
