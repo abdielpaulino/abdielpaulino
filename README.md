@@ -160,7 +160,7 @@ In February 2026, I founded Orbyt, a company focused on software systems develop
 
 ---
 
-## 📊 Statistics
+<!--## 📊 Statistics
 
 <p align="center">
   <img
@@ -173,7 +173,7 @@ In February 2026, I founded Orbyt, a company focused on software systems develop
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdielpaulino&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=8&hide_border=true&border_radius=12"
     alt="Top Languages"
   />
-</p>
+</p>-->
 
 <p align="center">
   <img
