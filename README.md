@@ -73,7 +73,7 @@ In February 2026, I founded **Koode Dev**, a company focused on software systems
         <img 
             alt="Koode Instagram" 
             title="Koode Instagram"
-            src="https://custom-icon-badges.demolab.com/badge/Orbyt-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Koode-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
