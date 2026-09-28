@@ -7,8 +7,8 @@
 
 My name is Abdiel Torazzi Paulino, from Santa Catarina, Brazil. I completed high school at Colégio SATC in Criciúma (SC), where I also obtained a technical degree in Electromechanics. Currently, I'm studying Software Engineering (5th Semester) at UNISATC in Criciúma (SC).  
 
-In October 2025, I founded my first company, MetalP, together with my father, Lucas. I use my experience in mechanical design to develop industrial furniture and custom metal structures tailored to each client's needs.  
-In February 2026, I founded Orbyt, a company focused on software systems development. Orbyt aims to create digital solutions for specific niches, building custom systems according to each client's needs.
+In October 2025, I founded my first company, **MetalP**, together with my father, Lucas. I use my experience in mechanical design to develop industrial furniture and custom metal structures tailored to each client's needs.  
+In February 2026, I founded **Koode Dev**, a company focused on software systems development. Koode aims to create digital solutions for specific niches, building custom systems according to each client's needs.
 
 ---
 
@@ -69,10 +69,10 @@ In February 2026, I founded Orbyt, a company focused on software systems develop
             src="https://custom-icon-badges.demolab.com/badge/MetalP-2EA44F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/orbyt.ofc">
+    <a href="https://www.instagram.com/koode.dev">
         <img 
-            alt="Orbyt Instagram" 
-            title="Orbyt Instagram"
+            alt="Koode Instagram" 
+            title="Koode Instagram"
             src="https://custom-icon-badges.demolab.com/badge/Orbyt-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
